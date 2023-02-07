@@ -1,0 +1,6 @@
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Debug\HighlightEntity.pdb
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Debug\HighlightEntity.csproj.CoreCompileInputs.cache
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Debug\HighlightEntity.pdb
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Debug\HighlightEntity.dll.config
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Debug\HighlightEntity.dll
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Debug\HighlightEntity.dll

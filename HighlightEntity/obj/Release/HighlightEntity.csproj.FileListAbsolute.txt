@@ -1,0 +1,6 @@
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Release\HighlightEntity.exe.config
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Release\HighlightEntity.exe
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\bin\Release\HighlightEntity.pdb
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Release\HighlightEntity.csproj.CoreCompileInputs.cache
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Release\HighlightEntity.exe
+E:\TestCode\HighlightEntity\HighlightEntity\HighlightEntity\obj\Release\HighlightEntity.pdb
